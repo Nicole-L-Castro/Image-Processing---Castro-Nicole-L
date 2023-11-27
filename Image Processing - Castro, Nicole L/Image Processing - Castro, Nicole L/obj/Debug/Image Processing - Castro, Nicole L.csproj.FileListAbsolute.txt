@@ -1,0 +1,17 @@
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\Image Processing - Castro, Nicole L.exe.config
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\Image Processing - Castro, Nicole L.exe
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\Image Processing - Castro, Nicole L.pdb
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.csproj.AssemblyReference.cache
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image_Processing___Castro__Nicole_L.Form1.resources
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image_Processing___Castro__Nicole_L.Properties.Resources.resources
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.csproj.GenerateResource.cache
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.exe
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.pdb
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.dll
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.Video.dll
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.xml
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.Video.xml
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Nicole Castro\source\repos\Image Processing - Castro, Nicole L\Image Processing - Castro, Nicole L\obj\Debug\Image Processing - Castro, Nicole L.csproj.CopyComplete
